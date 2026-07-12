@@ -1,13 +1,11 @@
-# Personal iOS Developer Website
+# Oğuzhan Satılmış — iOS Developer Website
 
 Static website for showcasing iOS apps, meant to be published with GitHub Pages.
 Provides the URLs required by App Store Connect (Privacy Policy, Support).
 
 ## Structure
 
-- `index.html` — Home (placeholder, to be filled in later)
-- `about.html` — About
-- `apps.html` — Apps list (App Store links)
+- `index.html` — Apps list (also the site's landing page)
 - `privacy.html` — Privacy Policy
 - `terms.html` — Terms of Service
 - `support.html` — Support / FAQ
@@ -16,12 +14,8 @@ Provides the URLs required by App Store Connect (Privacy Policy, Support).
 
 ## Before publishing
 
-Replace all placeholder content:
-
-- "Your Name" in every page's header/footer/title
-- App names, icons, descriptions, and App Store links in `apps.html`
-- Email and social links in `contact.html`
-- Review `privacy.html` and `terms.html` to match what your apps actually do
+- Replace the placeholder app names, icons, descriptions, and App Store links in `index.html`
+- Review `privacy.html` and `terms.html` to make sure they match what your apps actually do
 
 ## Publishing with GitHub Pages
 
