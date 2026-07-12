@@ -1,4 +1,4 @@
-# Oğuzhan Satılmış — iOS Developer Website
+# Oğuzhan Satılmış — Indie Developer Website
 
 Static website for showcasing iOS apps, meant to be published with GitHub Pages.
 Provides the URLs required by App Store Connect (Privacy Policy, Support/Contact).
